@@ -1,6 +1,3 @@
-Projektledelse
-++++++++++++++
-
 .. _Projekt Trekanten:
 
 Projekt Trekanten
@@ -9,13 +6,11 @@ Projekt Trekanten
 test
 
 
-.. image:: ProjektTrekanten.PNG
+
+.. image:: Figure/ProjektTrekanten.PNG
     :width: 400
     :alt: Alternative text
 
 
 
 kilde :ref:`Pip 3`
-
-
-

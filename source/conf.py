@@ -28,8 +28,6 @@ language = 'DK'
 html_theme = 'alabaster'
 html_static_path = ['_static']
 
-
-### myst_parser dunt exist on readthedocs hosting 
 # simply add the extension to your list of extensions
-##extensions = ['myst_parser']
-##source_suffix = ['.rst', '.md']
+#extensions = ['myst_parser']
+#source_suffix = ['.rst', '.md']

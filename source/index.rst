@@ -6,29 +6,35 @@
 Welcome to ITKO 2022's documentation!
 =====================================
 
+
+.. include:: ../Noter/a note
+
 .. toctree::
-   :maxdepth: 1
-   :caption: Litteratur:
-   
-   Bøger/Semester1
+   :maxdepth: 2
+   :caption: Semester:
+   :glob:
+
+   Semester/*   
+
+..
+   .. toctree::
+      :maxdepth: 1
+      :caption: Litteratur:
+      :glob:
+
+      Litteratur/Bøger/*
+                           !
+                  
+
 
 .. toctree::
    :maxdepth: 3
-   :caption: Noter:
+   :caption: Fag:
    :glob:
 
    Noter/*
-   Noter/Projektledelse/*
-   Noter/DTIV/*
-   Noter/Software/*
+ 
 
-
-.. toctree::
-   :maxdepth: 1
-   :caption: diverse:
-
-   support
-   search
    
 
 .. toctree::
@@ -37,3 +43,11 @@ Welcome to ITKO 2022's documentation!
    :glob:
 
    Testing/*
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Andet:
+   
+   StudieOrdning/StudieOrdning2022
+   support
+   search

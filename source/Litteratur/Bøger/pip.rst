@@ -1,7 +1,7 @@
 .. _Power i projekter og porteføljer:
 
-Power i projekter og porteføljer
-++++++++++++++++++++++++++++++++
+Bog : Power i projekter og porteføljer
+++++++++++++++++++++++++++++++++++++++
 
 Power i projekter og porteføljer, 
 Jurist- og Økonomforlagets Forlag (4. udgave) - ISBNnr. 9 788757 443967

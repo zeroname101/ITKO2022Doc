@@ -8,6 +8,9 @@ Lotte Rienecker
 Samfundslitteratur, 6. udg. 2022
 ISBN: 9788759339015
 
+.. contents:: Bogens indhold
+
+
 1. Gode opgaver på universitetet - genrer og kvalitetskriterier
 --------------------------------------------------------------------------------------------------------------------
 
